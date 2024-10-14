@@ -17,6 +17,7 @@ During this course I have discovered that I enjoy the aspects of a job as I am v
 <img align="left" alt="Qase" width="30px" style="padding-right:10px;" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/lidndmud8ysoncox1umx"/>
 <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg" />
 <img align="left" alt="JMeter" width="70px" style="padding-right:10px;" src="https://www.angleritech.com/wp-content/uploads/2017/10/asf-logo.png" />
+<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br />
 
 #
